@@ -1,7 +1,6 @@
 TEST
 ====
 
-Overview
 # Overview
 
 ## Description
@@ -19,10 +18,6 @@ import os
 ## Install
 
 ## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
 cazukish
